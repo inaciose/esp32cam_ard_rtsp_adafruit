@@ -3,10 +3,10 @@
 Video streaming from a ESP32-CAM, I2C OLED to display ip address
 
 Using libs:
--Micro-RTSP by Kevin Hester 
--Adafruit_BusIO 
--Adafruit_SSD1306 
--Adafruit_GFX 
+- Micro-RTSP by Kevin Hester 
+- Adafruit_BusIO 
+- Adafruit_SSD1306 
+- Adafruit_GFX 
 
 RTSP protocol: rtsp://192.168.1.10:8554/mjpeg/1
 
