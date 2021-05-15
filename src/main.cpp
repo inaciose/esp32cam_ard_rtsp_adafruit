@@ -260,7 +260,6 @@ void loop()
     server.handleClient();
 #endif
 
-
 #ifdef LED_BUILTIN
     // led blink control
     static uint32_t ledtimer = millis();
